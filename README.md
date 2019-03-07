@@ -8,6 +8,8 @@ and services such as requests routing, authentication, rate limiting, etc.
 
 **Kong dashboard** is a GUI that will let you manage your Kong Gateway setup.
 
+**NOTE**: this fork's corresponding docker image may be found at https://hub.docker.com/r/ilyams/kong-dashboard
+
 ## Compatibility matrix
 
 | Kong-Dashboard versions | Kong versions | Node versions |
